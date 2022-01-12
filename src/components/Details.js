@@ -39,13 +39,13 @@ const Details = () => {
         <GridItem colSpan={2}>
           <FormControl>
             <FormLabel>Address</FormLabel>
-            <Input placeholder='O Higgins 1390'></Input>
+            <Input placeholder='5th Avenue 575'></Input>
           </FormControl>
         </GridItem>
         <GridItem colSpan={colSpan}>
           <FormControl>
             <FormLabel>City</FormLabel>
-            <Input placeholder='Paraná'></Input>
+            <Input placeholder='New York'></Input>
           </FormControl>
         </GridItem>
         <GridItem colSpan={colSpan}>
